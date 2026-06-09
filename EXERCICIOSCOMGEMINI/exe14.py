@@ -1,5 +1,5 @@
 #Desafio de Arquitetura: O Aplicativo de Mobilidade (Estilo Uber)
-#Primeiro vou estabelecer as varias necessarias para o desfecho.
+#Primeiro vou estabelecer as variáveis necessarias para o desfecho.
 taxa_fixa = 4.00
 taxa_km = 2.00
 # agora vou acrescenta o valor se estiver chovendo.
